@@ -1,0 +1,24 @@
+Android Version 6.1.1 API 23 but pushing it to 7.0 and API 24 for more functionality and
+stability
+
+Platform Target
+Android
+Broswer(Just for testing)
+IoS (future testing)
+
+Plugins used
+
+1.Camera
+2.Capture
+3.CodePush
+4.geolocation
+
+03/30/2018
+Camera
+
+Today il work on all camera functionality
+
+Package name was io.cordova.myapp099acf
+
+I got the splashscreen set up (1:21)
+pushing code to git now
