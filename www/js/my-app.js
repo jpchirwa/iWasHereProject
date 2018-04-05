@@ -10,11 +10,6 @@ var myApp = new Framework7(
         name: 'iWasHere',
       
         // ... other parameters
-        methods: {
-            alert: function () {
-                app.dialog.alert('Hello World');
-            }
-        },
     }
     );
 // Export selectors engine
